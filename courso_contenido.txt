@@ -1,0 +1,9 @@
+lo que hice:
+
+1. Converted audio files into soundwaves with python and NumPy.
+
+2. Transcribed speech with speech_recognition.
+
+3. Prepared and manipulated audio files using PyDub.
+
+4. Built a spoken language processing pipeline with NLTK(sentiment analysis, spaCy(named entity recognition) and sklearn(text classification).
